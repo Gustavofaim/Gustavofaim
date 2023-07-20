@@ -1,10 +1,9 @@
 - 👋 Oi, eu sou o @Gustavofaim
-- 👀 Tenho interesse em...
-- 🌱 Atualmente estou aprendendo...
-- 💞️ Estou procurando colaborar em ...
-- 📫 Como chegar até mim...
+- 👀 Tenho interesse em Desenvolvedor de Front-End Junior.
+- 🌱 Atualmente estou aprendendo HTML, CSS e Java Script.  
+- 💞️ Estou procurando colaborar em  pesar de ainda não possuir experiência profissional, estou em busca de uma oportunidade no mercado de trabalho para aplicar meus conhecimentos e aprimorar minhas habilidades como desenvolvedor front-end.
+- 📫 Como chegar até mim  Gustavo Faim
 
 <!---
-Gustavofaim/Gustavofaim é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
-Você pode clicar no link Visualizar para ver suas alterações.
+
 --->
